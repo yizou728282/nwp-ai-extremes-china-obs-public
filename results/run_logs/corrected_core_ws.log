@@ -1,0 +1,9 @@
+ws/core: 0/334 stations 12s rss 256.8MB
+ws/core: 50/334 stations 34s rss 311.5MB
+ws/core: 100/334 stations 52s rss 365.5MB
+ws/core: 150/334 stations 69s rss 419.6MB
+ws/core: 200/334 stations 85s rss 445.9MB
+ws/core: 250/334 stations 100s rss 470.6MB
+ws/core: 300/334 stations 118s rss 495.6MB
+done ws/core in 135s
+core/ws: summary 200 rows, bootstrap 5040, dm 280560

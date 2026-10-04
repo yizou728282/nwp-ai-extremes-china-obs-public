@@ -1,0 +1,17 @@
+# Python 3.12; install with: uv venv .venv -p 3.12 && uv pip install -p .venv/bin/python -r requirements.txt
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+scipy==1.18.1
+numcodecs==0.17.0
+requests==2.34.2
+eccodes==2.49.0
+eccodeslib==2.49.0.30
+# only needed to locate chunks in AIWP files newer than the kerchunk index (after 2025-04-01)
+h5py==3.16.0
+fsspec==2026.9.0
+aiohttp==3.14.3
+tifffile==2026.9.20
+imagecodecs==2026.8.16
+matplotlib==3.11.2
+tabulate==0.10.0

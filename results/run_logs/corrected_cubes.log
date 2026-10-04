@@ -1,0 +1,13 @@
+t2 obs finite 21282500
+ws obs finite 21371279
+tmax obs finite 4361895
+tmin obs finite 4353770
+pr24 obs finite 4368397
+gfs {'t2': 22493230, 'ws': 22493230, 'tmax': 5059098}
+graphcast {'t2': 17541680, 'ws': 17541680, 'tmax': 3946878}
+pangu {'t2': 22431440, 'ws': 22431440, 'tmax': 5047074}
+fourcastnetv2 {'t2': 22431440, 'ws': 22431440, 'tmax': 5047074}
+graphcast_ifs {'t2': 15524320, 'ws': 15524320, 'tmax': 3492972}
+pangu_ifs {'t2': 15163600, 'ws': 15163600, 'tmax': 3411810}
+fourcastnetv2_ifs {'t2': 15163600, 'ws': 15163600, 'tmax': 3411810}
+climatology written; {'use_tmax': 180, 'use_pr': 0, 'use_tmin': 180, 'use_pr24': 249}

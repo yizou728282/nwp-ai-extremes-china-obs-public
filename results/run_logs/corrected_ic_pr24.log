@@ -1,0 +1,9 @@
+pr24/ic: 0/334 stations 0s rss 166.9MB
+pr24/ic: 50/334 stations 2s rss 181.9MB
+pr24/ic: 100/334 stations 3s rss 187.3MB
+pr24/ic: 150/334 stations 4s rss 192.4MB
+pr24/ic: 200/334 stations 6s rss 195.7MB
+pr24/ic: 250/334 stations 8s rss 198.2MB
+pr24/ic: 300/334 stations 10s rss 201.1MB
+done pr24/ic in 13s
+ic/pr24: summary 40 rows, bootstrap 720, dm 29880

@@ -1,0 +1,13 @@
+{
+  "pipeline_version": "2026-10-03-verification-v2",
+  "method_sha256": "6ad4b64b41a0eeb72307249c48995698c9c51b26fa89998a8f61cf271a847d9a",
+  "generated_utc": "2026-10-03T21:50:16.481652+00:00",
+  "comparison_set": "core",
+  "variable": "t2",
+  "bootstrap_block_days": 14,
+  "bootstrap_replicates": 1000,
+  "valid_zero_losses_retained": true,
+  "missing_calendar_days_retained": true,
+  "aggregate_weighting": "pooled station-case sums",
+  "summary_weighting": "equal station means"
+}

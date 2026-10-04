@@ -1,0 +1,9 @@
+ws/core21: 0/334 stations 10s rss 236.3MB
+ws/core21: 50/334 stations 29s rss 278.3MB
+ws/core21: 100/334 stations 48s rss 317.9MB
+ws/core21: 150/334 stations 66s rss 357.4MB
+ws/core21: 200/334 stations 82s rss 376.1MB
+ws/core21: 250/334 stations 98s rss 397.9MB
+ws/core21: 300/334 stations 115s rss 411.4MB
+done ws/core21 in 144s
+core21/ws: summary 160 rows, bootstrap 3360, dm 187040

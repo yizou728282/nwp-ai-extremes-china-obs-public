@@ -1,0 +1,9 @@
+t2/ic: 0/334 stations 22s rss 259.1MB
+t2/ic: 50/334 stations 111s rss 327.0MB
+t2/ic: 100/334 stations 194s rss 395.0MB
+t2/ic: 150/334 stations 279s rss 460.1MB
+t2/ic: 200/334 stations 330s rss 498.4MB
+t2/ic: 250/334 stations 390s rss 534.7MB
+t2/ic: 300/334 stations 455s rss 570.9MB
+done t2/ic in 491s
+ic/t2: summary 320 rows, bootstrap 8640, dm 480960

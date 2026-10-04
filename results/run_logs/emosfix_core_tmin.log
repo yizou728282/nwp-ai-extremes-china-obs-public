@@ -1,0 +1,9 @@
+tmin/core: 0/334 stations 0s rss 167.0MB
+tmin/core: 50/334 stations 26s rss 206.2MB
+tmin/core: 100/334 stations 46s rss 218.7MB
+tmin/core: 150/334 stations 66s rss 231.3MB
+tmin/core: 200/334 stations 78s rss 234.7MB
+tmin/core: 250/334 stations 90s rss 237.6MB
+tmin/core: 300/334 stations 102s rss 240.6MB
+done tmin/core in 110s
+core/tmin: summary 45 rows, bootstrap 1458, dm 43740

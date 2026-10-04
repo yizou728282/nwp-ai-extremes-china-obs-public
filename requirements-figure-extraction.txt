@@ -1,0 +1,5 @@
+# Optional tools for scripts/extract_figure4_snapshot.py.
+# Install in addition to requirements.txt, using Python 3.12.
+# These two versions passed snapshot extraction during the 2026-10-04 repair.
+pypdf==6.10.0
+pdfplumber==0.11.9

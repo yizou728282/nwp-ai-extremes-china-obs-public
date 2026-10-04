@@ -1,0 +1,9 @@
+tmin/ic: 0/334 stations 0s rss 166.8MB
+tmin/ic: 50/334 stations 32s rss 199.3MB
+tmin/ic: 100/334 stations 49s rss 210.9MB
+tmin/ic: 150/334 stations 66s rss 222.5MB
+tmin/ic: 200/334 stations 75s rss 226.5MB
+tmin/ic: 250/334 stations 84s rss 230.0MB
+tmin/ic: 300/334 stations 93s rss 233.9MB
+done tmin/ic in 99s
+ic/tmin: summary 72 rows, bootstrap 1944, dm 58320

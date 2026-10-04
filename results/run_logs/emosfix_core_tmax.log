@@ -1,0 +1,9 @@
+tmax/core: 0/334 stations 0s rss 166.8MB
+tmax/core: 50/334 stations 27s rss 205.8MB
+tmax/core: 100/334 stations 47s rss 218.3MB
+tmax/core: 150/334 stations 68s rss 231.1MB
+tmax/core: 200/334 stations 81s rss 234.5MB
+tmax/core: 250/334 stations 95s rss 237.5MB
+tmax/core: 300/334 stations 109s rss 240.2MB
+done tmax/core in 117s
+core/tmax: summary 45 rows, bootstrap 1458, dm 43740

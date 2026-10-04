@@ -1,0 +1,9 @@
+ws/ic: 0/334 stations 2s rss 258.7MB
+ws/ic: 50/334 stations 19s rss 326.7MB
+ws/ic: 100/334 stations 35s rss 391.7MB
+ws/ic: 150/334 stations 51s rss 456.8MB
+ws/ic: 200/334 stations 65s rss 495.2MB
+ws/ic: 250/334 stations 79s rss 531.3MB
+ws/ic: 300/334 stations 96s rss 567.6MB
+done ws/ic in 115s
+ic/ws: summary 320 rows, bootstrap 8640, dm 480960

@@ -1,0 +1,14 @@
+{
+  "superset": 360,
+  "candidates": 339,
+  "analysis": 334,
+  "use_tmax": 0,
+  "use_pr": 0,
+  "zones": {
+    "Temperate": 149,
+    "Arid": 76,
+    "Cold": 75,
+    "Highland": 28,
+    "Tropical": 6
+  }
+}

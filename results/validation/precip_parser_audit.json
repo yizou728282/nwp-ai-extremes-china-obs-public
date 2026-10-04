@@ -1,0 +1,38 @@
+{
+  "parser_version": "isd-aa24-explicit-zero-v2",
+  "station_years": 30,
+  "stations": [
+    "50603099999",
+    "50915099999",
+    "50136099999",
+    "50353099999",
+    "52713099999",
+    "52754099999",
+    "54751099999",
+    "54776099999",
+    "59358099999",
+    "59567099999"
+  ],
+  "selection": "first station IDs in each climate group",
+  "scope": "parser validation sample, not a forecast-score rerun",
+  "totals": {
+    "n_00_reports": 9313,
+    "n_aa24_groups": 6072,
+    "n_missing_aa24_groups": 360,
+    "n_rejected_condition_groups": 468,
+    "n_rejected_quality_groups": 141,
+    "n_zero_recovered_reports": 44,
+    "n_unresolved_missing_reports": 316,
+    "n_conflicting_days": 0,
+    "n_estimated_groups": 0,
+    "n_flagged_amounts_confirmed_groups": 575,
+    "n_valid_pr_days": 5147,
+    "n_zero_recovered_days": 44,
+    "legacy_valid_days": 5879,
+    "legacy_zero_days": 4192,
+    "legacy_zero_days_retained": 3876,
+    "legacy_zero_days_removed": 316,
+    "legacy_positive_days_removed": 416,
+    "changed_numeric_days": 0
+  }
+}

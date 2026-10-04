@@ -1,0 +1,10 @@
+............<python>/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/multiprocessing/popen_fork.py:66: DeprecationWarning: This process (pid=376706) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  self.pid = os.fork()
+t2/core: 0/1 stations 0s rss 174.4MB
+....
+----------------------------------------------------------------------
+Ran 16 tests in 2.370s
+
+OK
+done t2/core in 1s
+core/t2: summary 10 rows, bootstrap 96, dm 48

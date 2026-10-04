@@ -1,0 +1,9 @@
+t2/core: 0/334 stations 7s rss 237.3MB
+t2/core: 50/334 stations 137s rss 317.8MB
+t2/core: 100/334 stations 258s rss 376.6MB
+t2/core: 150/334 stations 385s rss 434.0MB
+t2/core: 200/334 stations 469s rss 460.5MB
+t2/core: 250/334 stations 574s rss 489.0MB
+t2/core: 300/334 stations 670s rss 515.1MB
+done t2/core in 730s
+core/t2: summary 200 rows, bootstrap 5400, dm 300600

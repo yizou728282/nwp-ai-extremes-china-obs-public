@@ -1,0 +1,65 @@
+{
+  "source": "existing vector figure, with station identities matched to the unchanged station list",
+  "source_pdf_sha256": "a44249ec3493a93737d4a31fb397628e287b1bfed20286316832456bc6803b88",
+  "snapshot_sha256": "cbeb11462137f08bae86ef0d73af2b755dcbf53bd85d0331648f4c06fa3ea22d",
+  "maximum_position_match_error_degrees": 2.1982246802063541e-07,
+  "all_18_station_fraction_checks_passed": true,
+  "summary_fraction_precision": 4,
+  "panels": [
+    {
+      "panel": 0,
+      "stations": 334,
+      "better": 235,
+      "worse": 37
+    },
+    {
+      "panel": 1,
+      "stations": 334,
+      "better": 271,
+      "worse": 7
+    },
+    {
+      "panel": 2,
+      "stations": 334,
+      "better": 262,
+      "worse": 2
+    },
+    {
+      "panel": 3,
+      "stations": 180,
+      "better": 135,
+      "worse": 15
+    },
+    {
+      "panel": 4,
+      "stations": 180,
+      "better": 150,
+      "worse": 0
+    },
+    {
+      "panel": 5,
+      "stations": 180,
+      "better": 127,
+      "worse": 0
+    },
+    {
+      "panel": 6,
+      "stations": 249,
+      "better": 21,
+      "worse": 2
+    },
+    {
+      "panel": 7,
+      "stations": 249,
+      "better": 36,
+      "worse": 0
+    },
+    {
+      "panel": 8,
+      "stations": 249,
+      "better": 0,
+      "worse": 0
+    }
+  ],
+  "scope": "positions, plotted significance/sign, and original RGB fills only; no numeric effect sizes or p/q values reconstructed"
+}

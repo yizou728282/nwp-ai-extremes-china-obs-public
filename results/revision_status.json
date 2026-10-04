@@ -1,0 +1,18 @@
+{
+  "status": "final",
+  "revision": "2026-10-03-verification-v2",
+  "historical_results_base_commit": "701515adb272b1034ab19bae9c811212043d0350",
+  "reason": "Full recomputation completed from the forecast-point caches; manuscript numbers reviewed against the regenerated tables.",
+  "affected": [
+    "observation precipitation and thresholds",
+    "all bootstrap confidence intervals",
+    "station DM/FDR tests",
+    "out-of-sample calibration",
+    "six-hourly lead diagnostics"
+  ],
+  "command": "bash run_corrected.sh",
+  "manuscript_status": "Quantitative prose reviewed against the regenerated tables.",
+  "method_sha256": "6ad4b64b41a0eeb72307249c48995698c9c51b26fa89998a8f61cf271a847d9a",
+  "oos_emos_tw1_fix": "closed-form Gaussian threshold-weighted CRPS; t2/tmax/tmin/ws/pr24 fully re-scored",
+  "manuscript_numeric_review_method_sha256": "6ad4b64b41a0eeb72307249c48995698c9c51b26fa89998a8f61cf271a847d9a"
+}

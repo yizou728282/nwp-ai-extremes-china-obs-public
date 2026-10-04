@@ -1,0 +1,9 @@
+t2/core21: 0/334 stations 15s rss 239.0MB
+t2/core21: 50/334 stations 123s rss 284.5MB
+t2/core21: 100/334 stations 215s rss 324.9MB
+t2/core21: 150/334 stations 317s rss 366.9MB
+t2/core21: 200/334 stations 382s rss 386.3MB
+t2/core21: 250/334 stations 459s rss 405.1MB
+t2/core21: 300/334 stations 539s rss 424.1MB
+done t2/core21 in 581s
+core21/t2: summary 160 rows, bootstrap 3600, dm 200400

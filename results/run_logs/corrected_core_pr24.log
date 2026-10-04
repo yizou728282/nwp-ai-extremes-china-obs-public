@@ -1,0 +1,9 @@
+pr24/core: 0/334 stations 0s rss 168.0MB
+pr24/core: 50/334 stations 4s rss 185.0MB
+pr24/core: 100/334 stations 5s rss 190.2MB
+pr24/core: 150/334 stations 7s rss 195.5MB
+pr24/core: 200/334 stations 10s rss 198.1MB
+pr24/core: 250/334 stations 13s rss 200.1MB
+pr24/core: 300/334 stations 15s rss 202.4MB
+done pr24/core in 18s
+core/pr24: summary 30 rows, bootstrap 420, dm 17430

@@ -1,0 +1,20 @@
+ws/core: 0/334 stations 1s rss 248.9MB
+ws/core: 50/334 stations 32s rss 310.7MB
+ws/core: 100/334 stations 57s rss 365.1MB
+ws/core: 150/334 stations 81s rss 419.2MB
+ws/core: 200/334 stations 103s rss 445.4MB
+ws/core: 250/334 stations 125s rss 470.4MB
+ws/core: 300/334 stations 148s rss 495.4MB
+done ws/core in 168s
+Traceback (most recent call last):
+  File "logs/emosfix_identity.py", line 20, in <module>
+    if sorted(a.files) != sorted(b.files) or not all((np.array_equal(a[k], b[k], equal_nan=True) if a[k].dtype.kind not in 'fc' else np.allclose(a[k], b[k], rtol=1e-12, atol=0, equal_nan=True)) for k in a.files):
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "logs/emosfix_identity.py", line 20, in <genexpr>
+    if sorted(a.files) != sorted(b.files) or not all((np.array_equal(a[k], b[k], equal_nan=True) if a[k].dtype.kind not in 'fc' else np.allclose(a[k], b[k], rtol=1e-12, atol=0, equal_nan=True)) for k in a.files):
+                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ".venv/lib/python3.12/site-packages/numpy/_core/numeric.py", line 2549, in array_equal
+    a1nan = isnan(a1)
+            ^^^^^^^^^
+TypeError: ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+core/ws: summary 200 rows, bootstrap 5040, dm 280560

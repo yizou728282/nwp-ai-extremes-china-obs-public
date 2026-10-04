@@ -1,0 +1,9 @@
+tmax/core21: 0/334 stations 0s rss 166.1MB
+tmax/core21: 50/334 stations 29s rss 195.2MB
+tmax/core21: 100/334 stations 48s rss 204.8MB
+tmax/core21: 150/334 stations 68s rss 214.0MB
+tmax/core21: 200/334 stations 80s rss 216.3MB
+tmax/core21: 250/334 stations 92s rss 218.4MB
+tmax/core21: 300/334 stations 106s rss 220.5MB
+done tmax/core21 in 114s
+core21/tmax: summary 36 rows, bootstrap 972, dm 29160
